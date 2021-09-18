@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+
 <!--
 **yuki0108/yuki0108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- リポジトリステータス -->
+[![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=yuki0108&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/yuki0108/)
+
+<!-- ソースコード統計 -->
+[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuki0108&layout=compact&theme=tokyonight)](https://github.com/yuki0108/)
