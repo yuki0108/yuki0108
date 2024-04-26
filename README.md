@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 
 <!-- リポジトリステータス -->
 ## ⚡ Status
+[![](https://github-readme-streak-stats.herokuapp.com/?user=yuki0108&theme=★★★)](https://github-readme-streak-stats.herokuapp.com/?user=yuki0108&theme=★★★)
 [![](https://raw.githubusercontent.com/yuki0108/yuki0108/main/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/yuki0108/yuki0108/main/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/yuki0108/yuki0108/main/profile-summary-card-output/monokai/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/yuki0108/yuki0108/main/profile-summary-card-output/monokai/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)<br />
