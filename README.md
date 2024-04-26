@@ -47,34 +47,34 @@ Here are some ideas to get you started:
 
 
 
-## 👋 Hi! I'm yutkat
+## 👋 Hi! I'm yuki0108
 
 <p align="left"> 
-  <a href="https://github.com/yutkat/yutkat/">
-    <img src="https://komarev.com/ghpvc/?username=yutkat" alt="yutkat" />
+  <a href="https://github.com/yuki0108/yuki0108/">
+    <img src="https://komarev.com/ghpvc/?username=yuki0108" alt="yuki0108" />
   </a>
-  <a href="https://github.com/yutkat">
-    <img height="20" src="https://img.shields.io/github/followers/yutkat?label=follow&logo=github&style=flat" />
+  <a href="https://github.com/yuki0108">
+    <img height="20" src="https://img.shields.io/github/followers/yuki0108?label=follow&logo=github&style=flat" />
   </a>
-  <a href="https://github.com/yutkat">
-    <img height="20" src="https://img.shields.io/github/stars/yutkat?logo=github&style=flat" />
+  <a href="https://github.com/yuki0108">
+    <img height="20" src="https://img.shields.io/github/stars/yuki0108?logo=github&style=flat" />
   </a>
-  <a href="https://gitstar-ranking.com/yutkat">
-    <img height="20" src="https://img.shields.io/endpoint?label=star ranking&logo=github&style=flat&url=https%3A%2F%2Fgitstar-ranking.com%2Fusers%2Fyutkat%2Fshields" />
+  <a href="https://gitstar-ranking.com/yuki0108">
+    <img height="20" src="https://img.shields.io/endpoint?label=star ranking&logo=github&style=flat&url=https%3A%2F%2Fgitstar-ranking.com%2Fusers%yuki0108%2Fshields" />
   </a>
-  <a href="https://user-badge.committers.top/japan/yutkat">
-    <img height="20" src="https://user-badge.committers.top/japan/yutkat.svg" />
+  <a href="https://user-badge.committers.top/japan/yuki0108">
+    <img height="20" src="https://user-badge.committers.top/japan/yuki0108.svg" />
   </a>
 </p>
 
 <p align="left"> 
-  <a href="http://x.com/yutkat">
-    <img height="20" src="https://img.shields.io/twitter/follow/yutkat?style=flat&logo=x" />
+  <a href="http://x.com/yuki0108">
+    <img height="20" src="https://img.shields.io/twitter/follow/yuki0108?style=flat&logo=x" />
   </a>
-  <a href="https://www.reddit.com/user/yutkat">
-    <img height="20" src="https://img.shields.io/reddit/user-karma/combined/yutkat?label=Reddit&logo=reddit&style=flat" />
+  <a href="https://www.reddit.com/user/yuki0108">
+    <img height="20" src="https://img.shields.io/reddit/user-karma/combined/yuki0108?label=Reddit&logo=reddit&style=flat" />
   </a>
-  <a href="https://stackoverflow.com/users/5720201/yutkat">
+  <a href="https://stackoverflow.com/users/5720201/yuki0108">
     <img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/5720201?label=StackOverflow&logo=stack-overflow&style=flat" />
   </a>
 </p>
@@ -89,38 +89,38 @@ Here are some ideas to get you started:
   <a href="https://zenn.dev/yutakatay">
     <img height="20" src="https://badgen.org/img/zenn/yutakatay/articles?style=plastic" alt="Articles" />
   </a>
-  <a href="http://qiita.com/yutkat">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/yutkat/contributions.svg" />
+  <a href="http://qiita.com/yuki0108">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/yuki0108/contributions.svg" />
   </a>
-  <a href="http://qiita.com/yutkat">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/yutkat/posts.svg" />
+  <a href="http://qiita.com/yuki0108">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/yuki0108/posts.svg" />
   </a>
 </p>
 
 <p align="left"> 
-  <a href="https://yutkat.github.io/">
+  <a href="https://yuki0108/">
     <img alt="homepage" width="30px" src="https://simpleicons.org/icons/homeassistantcommunitystore.svg" />
   </a>
-  <a href="https://x.com/yutkat">
+  <a href="https://x.com/yuki0108">
     <img alt="x" width="30px" src="https://simpleicons.org/icons/x.svg" />
   </a>
   <a href="https://zenn.dev/yutakatay">
     <img alt="qiita" width="30px" src="https://simpleicons.org/icons/zenn.svg" />
   </a>
-  <a href="https://qiita.com/yutkat">
+  <a href="https://qiita.com/yuki0108">
     <img alt="qiita" width="30px" src="https://simpleicons.org/icons/qiita.svg" />
   </a>
-  <a href="https://dev.to/yutkat" target="blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="yutkat" height="30" width="30" />
+  <a href="https://dev.to/yuki0108" target="blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="yuki0108" height="30" width="30" />
   </a>
-  <a href="https://stackoverflow.com/users/yutkat" target="blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="yutkat" height="30" width="30" />
+  <a href="https://stackoverflow.com/users/yuki0108" target="blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="yuki0108" height="30" width="30" />
   </a>
-  <a href="https://www.quora.com/profile/Yutkat" target="blank">
-    <img src="https://simpleicons.org/icons/quora.svg" alt="yutkat" height="30" width="30" />
+  <a href="https://www.quora.com/profile/yuki0108" target="blank">
+    <img src="https://simpleicons.org/icons/quora.svg" alt="yuki0108" height="30" width="30" />
   </a>
-  <a href="https://ossinsight.io/analyze/yutkat" target="blank">
-    <img src="https://cdn.jsdelivr.net/npm/svg-icon@0.8.2/dist/svg/mfglabs/eye.svg" alt="yutkat" height="30" width="30" />
+  <a href="https://ossinsight.io/analyze/yuki0108" target="blank">
+    <img src="https://cdn.jsdelivr.net/npm/svg-icon@0.8.2/dist/svg/mfglabs/eye.svg" alt="yuki0108" height="30" width="30" />
   </a>
 </p>
 
@@ -128,21 +128,21 @@ Here are some ideas to get you started:
 
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=yutkat&count_private=true&show_icons=true&show_icons=true&theme=onedark&custom_title=GitHub%20Stats&hide_border=true" />
+    <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=yuki0108&count_private=true&show_icons=true&show_icons=true&theme=onedark&custom_title=GitHub%20Stats&hide_border=true" />
   </a>
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img alt="github stats" height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=yutkat&theme=nightfox&hide_border=true" />
+    <img alt="github stats" height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=yuki0108&theme=nightfox&hide_border=true" />
   </a>
 </p>
 
-[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yutkat&theme=ayu_mirage)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://github-readme-activity-graph.vercel.app/graph?username=yutkat&theme=github&custom_title=Contribution%20Graph&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuki0108&theme=ayu_mirage)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://github-readme-activity-graph.vercel.app/graph?username=yuki0108&theme=github&custom_title=Contribution%20Graph&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ### Languages
 
-[![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yutkat&theme=ayu_mirage)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yutkat&theme=ayu_mirage)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=yutkat&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=onedark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yuki0108&theme=ayu_mirage)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yuki0108&theme=ayu_mirage)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=yuki0108&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=onedark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### OSS Insight
 
@@ -151,7 +151,7 @@ Here are some ideas to get you started:
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=8683947" target="_blank" style="display: block" align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=8683947&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @yutkat" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=8683947&image_size=auto&color_scheme=light" width="771" height="auto">
+    <img alt="Dashboard stats of @yuki0108" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=8683947&image_size=auto&color_scheme=light" width="771" height="auto">
   </picture>
 </a>
 
@@ -162,7 +162,7 @@ Here are some ideas to get you started:
 <a href="https://next.ossinsight.io/widgets/official/compose-currently-working-on?user_id=8683947&activity_type=all" target="_blank" style="display: block" align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=8683947&activity_type=all&image_size=auto&color_scheme=dark" width="497.5" height="auto">
-    <img alt="@yutkat's Recent Work - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=8683947&activity_type=all&image_size=auto&color_scheme=light" width="497.5" height="auto">
+    <img alt="@yuki0108's Recent Work - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=8683947&activity_type=all&image_size=auto&color_scheme=light" width="497.5" height="auto">
   </picture>
 </a>
 
@@ -170,21 +170,21 @@ Here are some ideas to get you started:
 
 ### Achievement
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yutkat&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=yuki0108&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Metrics
 
 <details>
   <summary>GitHub Metrics</summary>
 
-<!-- ![Metrics](https://metrics.lecoq.io/yutkat) -->
-[![Metrics](https://github.com/yutkat/yutkat/blob/main/github-metrics.svg)](https://github.com/lowlighter/metrics)
+<!-- ![Metrics](https://metrics.lecoq.io/yuki0108) -->
+[![Metrics](https://github.com/yuki0108/yuki0108/blob/main/github-metrics.svg)](https://github.com/lowlighter/metrics)
 
 </details>
 
 ### Wakatime Analysis
 
-<!-- <img height="150" src="https://github.com/yutkat/yutkat/blob/master/images/stat.svg" alt="Alternative Text"/> -->
+<!-- <img height="150" src="https://github.com/yuki0108/yuki0108/blob/master/images/stat.svg" alt="Alternative Text"/> -->
 
 <details>
   <summary>Other Statics</summary>
@@ -263,7 +263,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 **Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/yutkat/yutkat/main/assets/bar_graph.png)
+![Lines of Code chart](https://raw.githubusercontent.com/yuki0108/yuki0108/main/assets/bar_graph.png)
 
 
  Last Updated on 25/04/2024 19:34:26 UTC
@@ -273,7 +273,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ### This page status
 
 <a href="https://widgetbite.com" align="left">
-  <img alt="Visitor Stats" src="https://widgetbite.com/stats/yutkat"/>  
+  <img alt="Visitor Stats" src="https://widgetbite.com/stats/yuki0108"/>  
 </a>
 
-[![Metrics](https://github.com/yutkat/yutkat/actions/workflows/main.yml/badge.svg)](https://github.com/yutkat/yutkat/actions/workflows/main.yml)
+[![Metrics](https://github.com/yuki0108/yuki0108/actions/workflows/main.yml/badge.svg)](https://github.com/yuki0108/yuki0108/actions/workflows/main.yml)
