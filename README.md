@@ -57,10 +57,7 @@ Here are some ideas to get you started:
 [![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yuki0108&theme=ayu_mirage)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=yuki0108&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=onedark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![](https://github-readme-streak-stats.herokuapp.com/?user=yuki0108&theme=dark)](https://github-readme-streak-stats.herokuapp.com/?user=yuki0108&theme=dark)
 
-<!-- ソースコード統計 -->
-[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuki0108&layout=compact&theme=monokai)](https://github.com/yuki0108/)
 
 ### This page status
 
