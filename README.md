@@ -1,6 +1,6 @@
 <h2>🏆 Github Profile Trophy</h2></a>
 <a href="https://github.com/yuki0108/github-profile-trophy">
-	<img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula&column=7&margin-w=15&margin-h=15" />
+	<img src="https://github-profile-trophy.vercel.app/?username=yuki0108&theme=dracula&column=7&margin-w=15&margin-h=15" />
 </a>  
 
 <h3 align="left">👋Languages and Tools:👋</h3>
