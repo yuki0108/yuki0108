@@ -32,23 +32,3 @@
 ```
 
     
-
----
-
-![](./2-most-commit-language.svg)
-
-```
-![](https://raw.githubusercontent.com/yuki0108/yuki0108/main/profile-summary-card-output/radical/2-most-commit-language.svg)
-```
-
-    
-
----
-
-![](./3-stats.svg)
-
-```
-![](https://raw.githubusercontent.com/yuki0108/yuki0108/main/profile-summary-card-output/radical/3-stats.svg)
-```
-
-    

@@ -32,23 +32,3 @@
 ```
 
     
-
----
-
-![](./2-most-commit-language.svg)
-
-```
-![](https://raw.githubusercontent.com/yuki0108/yuki0108/main/profile-summary-card-output/monokai/2-most-commit-language.svg)
-```
-
-    
-
----
-
-![](./3-stats.svg)
-
-```
-![](https://raw.githubusercontent.com/yuki0108/yuki0108/main/profile-summary-card-output/monokai/3-stats.svg)
-```
-
-    
